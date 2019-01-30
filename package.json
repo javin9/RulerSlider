@@ -1,0 +1,19 @@
+{
+  "name": "@paodekuai/rulerslider",
+  "version": "0.1.0",
+  "description": "移动端滑动选择价格 `停止维护`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcupid/RulerSlider.git"
+  },
+  "author": "liujianwei <liujianwei1213@163.com> (http://github.com/IIcupid)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcupid/RulerSlider/issues"
+  },
+  "homepage": "https://github.com/rcupid/RulerSlider#readme"
+}
